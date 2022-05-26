@@ -84,7 +84,6 @@ export default function Groupingtry() {
 				}}
 				closeMenuOnSelect={false}
 				isMulti
-				menuIsOpen={true}
 				options={options}
 				value={value}
 				allowSelectAll={true}
